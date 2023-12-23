@@ -1,2 +1,10 @@
 theme: jekyll-theme-minimal
 title: Hoang Pham's homepage
+src: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
